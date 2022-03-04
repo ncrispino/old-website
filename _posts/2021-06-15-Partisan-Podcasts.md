@@ -1,5 +1,10 @@
 ---
 creator: Nick
+categories:
+  - Blog
+tags:
+  - Pandas
+  - Webscraping
 ---
 After learning basic python (i.e., Numpy, Matplotlib, and Pandas) from [QuantEcon](https://quantecon.org), I wanted to create some projects of my own. Initially, I had planned to examine independent (alternative) media on YouTube, but that proved too difficult with the tools I had learned. Additionally, (and maybe more importantly), I realized it had already been done by [Pew](https://www.journalism.org/2020/09/28/a-closer-look-at-the-channels-producing-news-on-youtube-and-the-videos-themselves/). Still, the idea stuck with me.
 
