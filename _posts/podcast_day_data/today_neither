@@ -1,0 +1,136 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Source</th>
+      <th>Name</th>
+      <th>Partisan Lean</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Serial Productions</td>
+      <td>Serial</td>
+      <td>Neither</td>
+    </tr>
+    <tr>
+      <td>Robinhood Financial, LLC</td>
+      <td>Snacks Daily</td>
+      <td>Neither</td>
+    </tr>
+    <tr>
+      <td>The Center for Investigative Reporting and PRX</td>
+      <td>Reveal</td>
+      <td>Neither</td>
+    </tr>
+    <tr>
+      <td>APM Reports</td>
+      <td>In the Dark</td>
+      <td>Neither</td>
+    </tr>
+    <tr>
+      <td>Seeking Alpha</td>
+      <td>Wall Street Breakfast</td>
+      <td>Neither</td>
+    </tr>
+    <tr>
+      <td>Shit You Should Care About</td>
+      <td>The Shit Show</td>
+      <td>Neither</td>
+    </tr>
+    <tr>
+      <td>Lovelyti</td>
+      <td>Tea Time UNFILTERED With Lovelyti</td>
+      <td>Neither</td>
+    </tr>
+    <tr>
+      <td>Betches Media</td>
+      <td>Pop Alarm</td>
+      <td>Neither</td>
+    </tr>
+    <tr>
+      <td>Christian Walker</td>
+      <td>Uncancellable</td>
+      <td>Neither</td>
+    </tr>
+    <tr>
+      <td>Jemele Hill is Unbothered</td>
+      <td>Jemele Hill is Unbothered</td>
+      <td>Neither</td>
+    </tr>
+    <tr>
+      <td>Dan Crenshaw</td>
+      <td>Hold These Truths with Dan Crenshaw</td>
+      <td>Neither</td>
+    </tr>
+    <tr>
+      <td>WNYC Studios and The New Yorker</td>
+      <td>The New Yorker Radio Hour</td>
+      <td>Neither</td>
+    </tr>
+    <tr>
+      <td>GaS Digital Network</td>
+      <td>"YOUR WELCOME" with Michael Malice</td>
+      <td>Neither</td>
+    </tr>
+    <tr>
+      <td>Morning Wire</td>
+      <td>Morning Wire</td>
+      <td>Neither</td>
+    </tr>
+    <tr>
+      <td>Allegedly</td>
+      <td>Allegedly</td>
+      <td>Neither</td>
+    </tr>
+    <tr>
+      <td>American Prestige</td>
+      <td>American Prestige</td>
+      <td>Neither</td>
+    </tr>
+    <tr>
+      <td>Empire Files</td>
+      <td>Empire Files</td>
+      <td>Neither</td>
+    </tr>
+    <tr>
+      <td>Michael Savage</td>
+      <td>The Michael Savage Show</td>
+      <td>Neither</td>
+    </tr>
+    <tr>
+      <td>Matthew Sitman</td>
+      <td>Know Your Enemy</td>
+      <td>Neither</td>
+    </tr>
+    <tr>
+      <td>TrueAnon</td>
+      <td>TrueAnon</td>
+      <td>Neither</td>
+    </tr>
+    <tr>
+      <td>iHeartRadio</td>
+      <td>Worst Year Ever</td>
+      <td>Neither</td>
+    </tr>
+    <tr>
+      <td>Tyler Zed</td>
+      <td>Zedcast - The Tyler Zed Podcast</td>
+      <td>Neither</td>
+    </tr>
+    <tr>
+      <td>Graham Allen’s Dear America Podcast</td>
+      <td>Graham Allen’s Dear America Podcast</td>
+      <td>Neither</td>
+    </tr>
+    <tr>
+      <td>Meidas Media Network</td>
+      <td>Legal AF by MeidasTouch</td>
+      <td>Neither</td>
+    </tr>
+    <tr>
+      <td>Sean Hannity</td>
+      <td>The Sean Hannity Show</td>
+      <td>Neither</td>
+    </tr>
+  </tbody>
+</table>

@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm Nick, a rising college junior studying computer science and economics, as well as statistics. I love computer science and math, as well as analyzing issues related to economics and public policy. On this website, I'll be trying to answer some basic questions using the (limited) knowledge that I have. Nothing I write will be conclusive, but hopefully it'll be interesting and at the very least provoke some thought.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+<!-- <a href="project-page.html">Projects</a> will present graphs and statistics answering a question. <a href="blog.html">Posts</a> will explain my processes for creating projects or go more into depth on issues while focusing less on presentation. -->

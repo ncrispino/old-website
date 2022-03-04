@@ -1,0 +1,282 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Name/Source</th>
+      <th>Justification</th>
+      <th>Reason for Justification</th>
+      <th>Partisan Lean</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ABC News</td>
+      <td>AllSides</td>
+      <td><a href="https://www.allsides.com/media-bias/media-bias-ratings?field_featured_bias_rating_value=All&field_news_source_type_tid[1]=1&field_news_source_type_tid[2]=2&field_news_source_type_tid[3]=3&field_news_source_type_tid[4]=4&field_news_bias_nid_1[1]=1&field_news_bias_nid_1[2]=2&field_news_bias_nid_1[3]=3&title=ABC">Link</a></td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Axios & Pushkin Industries</td>
+      <td>Most readers moderate, slightly left-leaning but not entirely</td>
+      <td><a href="https://en.wikipedia.org/wiki/Axios_(website)">Link</a></td>
+      <td>Center</td>
+    </tr>
+    <tr>
+      <td>BBC World Service</td>
+      <td>AllSides</td>
+      <td><a href="https://www.allsides.com/media-bias/media-bias-ratings?field_featured_bias_rating_value=All&field_news_source_type_tid[1]=1&field_news_source_type_tid[2]=2&field_news_source_type_tid[3]=3&field_news_source_type_tid[4]=4&field_news_bias_nid_1[1]=1&field_news_bias_nid_1[2]=2&field_news_bias_nid_1[3]=3&title=BBC">Link</a></td>
+      <td>Center</td>
+    </tr>
+    <tr>
+      <td>Blaze Podcast Network</td>
+      <td>AllSides</td>
+      <td><a href="https://www.allsides.com/media-bias/media-bias-ratings?field_featured_bias_rating_value=All&field_news_source_type_tid[1]=1&field_news_source_type_tid[2]=2&field_news_source_type_tid[3]=3&field_news_source_type_tid[4]=4&field_news_bias_nid_1[1]=1&field_news_bias_nid_1[2]=2&field_news_bias_nid_1[3]=3&title=Blaze">Link</a></td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>Breaking Points with Krystal and Saagar</td>
+      <td>Hosts Krystal Ball and Saagar Enjeti both populists but the former leans left and the latter leans right. Even though they aren't the center, contains representative from both and doesn't fit well on either side. See info about their old show, Rising, for more.</td>
+      <td><a href="https://en.wikipedia.org/wiki/Rising_(news_show)">Link</a></td>
+      <td>Center</td>
+    </tr>
+    <tr>
+      <td>CNN</td>
+      <td>AllSides</td>
+      <td><a href="https://www.allsides.com/media-bias/media-bias-ratings?field_featured_bias_rating_value=All&field_news_source_type_tid[1]=1&field_news_source_type_tid[2]=2&field_news_source_type_tid[3]=3&field_news_source_type_tid[4]=4&field_news_bias_nid_1[1]=1&field_news_bias_nid_1[2]=2&field_news_bias_nid_1[3]=3&title=CNN">Link</a></td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Chapo Trap House</td>
+      <td>Self-described far-left</td>
+      <td><a href="https://en.wikipedia.org/wiki/Chapo_Trap_House">Link</a></td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Charlie Kirk</td>
+      <td>AllSides</td>
+      <td><a href="https://www.allsides.com/media-bias/media-bias-ratings?field_featured_bias_rating_value=All&field_news_source_type_tid[1]=1&field_news_source_type_tid[2]=2&field_news_source_type_tid[3]=3&field_news_source_type_tid[4]=4&field_news_bias_nid_1[1]=1&field_news_bias_nid_1[2]=2&field_news_bias_nid_1[3]=3&title=Charlie%20Kirk">Link</a></td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>Clay Travis and Buck Sexton</td>
+      <td>Conservative talk radio show taking over for The Rush Limbaugh Show</td>
+      <td><a href="https://en.wikipedia.org/wiki/The_Rush_Limbaugh_Show">Link</a></td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>Crooked Media</td>
+      <td>Created by former Obama staffers</td>
+      <td><a href="https://en.wikipedia.org/wiki/Crooked_Media">Link</a></td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Dan Bongino</td>
+      <td>Ran for Congress as republican</td>
+      <td><a href="https://en.wikipedia.org/wiki/Dan_Bongino">Link</a></td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>Devil May Care Media</td>
+      <td>Founder Megyn Kelly is self-described independent</td>
+      <td><a href="https://en.wikipedia.org/wiki/Megyn_Kelly">Link</a></td>
+      <td>Center</td>
+    </tr>
+    <tr>
+      <td>FOX News Radio</td>
+      <td>AllSides</td>
+      <td><a href="https://www.allsides.com/media-bias/media-bias-ratings?field_featured_bias_rating_value=All&field_news_source_type_tid[1]=1&field_news_source_type_tid[2]=2&field_news_source_type_tid[3]=3&field_news_source_type_tid[4]=4&field_news_bias_nid_1[1]=1&field_news_bias_nid_1[2]=2&field_news_bias_nid_1[3]=3&title=FOX">Link</a></td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>Fear & Malding</td>
+      <td>Self-described as left-leaning podcast</td>
+      <td><a href="https://open.spotify.com/show/5uKAwUEZun3X9NyxnwfS7e (Fear & Malding)">Link</a></td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Fearless with Jason Whitlock</td>
+      <td>From The Blaze</td>
+      <td><a href="https://en.wikipedia.org/wiki/Blaze_Media">Link</a></td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>FiveThirtyEight, 538, ABC News, Nate Silver</td>
+      <td>AllSides</td>
+      <td><a href="https://www.allsides.com/media-bias/media-bias-ratings?field_featured_bias_rating_value=All&field_news_source_type_tid[1]=1&field_news_source_type_tid[2]=2&field_news_source_type_tid[3]=3&field_news_source_type_tid[4]=4&field_news_bias_nid_1[1]=1&field_news_bias_nid_1[2]=2&field_news_bias_nid_1[3]=3&title=ABC">Link</a></td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Hodgetwins</td>
+      <td>Self-proclaimed conservatives</td>
+      <td><a href="https://en.wikipedia.org/wiki/Hodgetwins">Link</a></td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>Krystal Kyle & Friends</td>
+      <td>Hosts Krystal Ball and Kyle Kulinski are self-described progressives</td>
+      <td></td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Majority Report with Sam Seder</td>
+      <td>Promotes left-wing politics</td>
+      <td><a href="https://en.wikipedia.org/wiki/The_Majority_Report_with_Sam_Seder">Link</a></td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Mark Levin</td>
+      <td>Fox News contributor and worked in Reagan White House</td>
+      <td><a href="https://en.wikipedia.org/wiki/Mark_Levin">Link</a></td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>Mea Culpa with Michael Cohen</td>
+      <td>Hosted by Trump's former lawyer, which would indicate a right lean.                    However, he has begun to criticize Trump, which would align him better with the left. As such, I'll place him as center.</td>
+      <td><a href="https://en.wikipedia.org/wiki/Michael_Cohen_(lawyer)">Link</a></td>
+      <td>Center</td>
+    </tr>
+    <tr>
+      <td>NPR</td>
+      <td>AllSides</td>
+      <td><a href="https://www.allsides.com/media-bias/media-bias-ratings?field_featured_bias_rating_value=All&field_news_source_type_tid[1]=1&field_news_source_type_tid[2]=2&field_news_source_type_tid[3]=3&field_news_source_type_tid[4]=4&field_news_bias_nid_1[1]=1&field_news_bias_nid_1[2]=2&field_news_bias_nid_1[3]=3&title=NPR">Link</a></td>
+      <td>Center</td>
+    </tr>
+    <tr>
+      <td>New York Magazine</td>
+      <td>AllSides</td>
+      <td><a href="https://www.allsides.com/media-bias/media-bias-ratings?field_featured_bias_rating_value=All&field_news_source_type_tid[1]=1&field_news_source_type_tid[2]=2&field_news_source_type_tid[3]=3&field_news_source_type_tid[4]=4&field_news_bias_nid_1[1]=1&field_news_bias_nid_1[2]=2&field_news_bias_nid_1[3]=3&title=New%20York%20Magazine">Link</a></td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>New York Times Opinion</td>
+      <td>AllSides</td>
+      <td><a href="https://www.allsides.com/media-bias/media-bias-ratings?field_featured_bias_rating_value=All&field_news_source_type_tid[1]=1&field_news_source_type_tid[2]=2&field_news_source_type_tid[3]=3&field_news_source_type_tid[4]=4&field_news_bias_nid_1[1]=1&field_news_bias_nid_1[2]=2&field_news_bias_nid_1[3]=3&title=New%20York%20Times">Link</a></td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Office Hours with Georgia Howe</td>
+      <td>From The Daily Wire</td>
+      <td><a href="https://en.wikipedia.org/wiki/The_Daily_Wire">Link</a></td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>POLITICO</td>
+      <td>AllSides</td>
+      <td><a href="https://www.allsides.com/media-bias/media-bias-ratings?field_featured_bias_rating_value=All&field_news_source_type_tid[1]=1&field_news_source_type_tid[2]=2&field_news_source_type_tid[3]=3&field_news_source_type_tid[4]=4&field_news_bias_nid_1[1]=1&field_news_bias_nid_1[2]=2&field_news_bias_nid_1[3]=3&title=POLITICO">Link</a></td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Part Of The Problem</td>
+      <td>Hosted by self-described libertarian</td>
+      <td><a href="https://gasdigitalnetwork.com/gdn-show-channels/part-of-the-problem/">Link</a></td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>Q Clearance: The Hunt for QAnon</td>
+      <td>Explores right-wing QAnon theory; will inherently have leftist lean</td>
+      <td></td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>QAnon Anonymous</td>
+      <td>Explores right-wing QAnon theory; will inherently have leftist lean</td>
+      <td></td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Rachel Maddow, MSNBC</td>
+      <td>AllSides</td>
+      <td><a href="https://www.allsides.com/media-bias/media-bias-ratings?field_featured_bias_rating_value=All&field_news_source_type_tid[1]=1&field_news_source_type_tid[2]=2&field_news_source_type_tid[3]=3&field_news_source_type_tid[4]=4&field_news_bias_nid_1[1]=1&field_news_bias_nid_1[2]=2&field_news_bias_nid_1[3]=3&title=MSNBC">Link</a></td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Real Time with Bill Maher</td>
+      <td>Bill Maher is self-described leftist; against cancel-culture but still a progressive</td>
+      <td><a href="https://en.wikipedia.org/wiki/Bill_Maher#Politics">Link</a></td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Rush Limbaugh</td>
+      <td>Conservative talk radio show</td>
+      <td><a href="https://en.wikipedia.org/wiki/The_Rush_Limbaugh_Show">Link</a></td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>Slate Podcasts</td>
+      <td>AllSides</td>
+      <td><a href="https://www.allsides.com/media-bias/media-bias-ratings?field_featured_bias_rating_value=All&field_news_source_type_tid[1]=1&field_news_source_type_tid[2]=2&field_news_source_type_tid[3]=3&field_news_source_type_tid[4]=4&field_news_bias_nid_1[1]=1&field_news_bias_nid_1[2]=2&field_news_bias_nid_1[3]=3&title=Slate">Link</a></td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Soundfront</td>
+      <td>From Abbson, a conservative media company</td>
+      <td><a href="https://soundfront.com/">Link</a></td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>TODAY</td>
+      <td>AllSides</td>
+      <td><a href="https://www.allsides.com/media-bias/media-bias-ratings?field_featured_bias_rating_value=All&field_news_source_type_tid[1]=1&field_news_source_type_tid[2]=2&field_news_source_type_tid[3]=3&field_news_source_type_tid[4]=4&field_news_bias_nid_1[1]=1&field_news_bias_nid_1[2]=2&field_news_bias_nid_1[3]=3&title=TODAY">Link</a></td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>The Daily Wire</td>
+      <td>AllSides</td>
+      <td><a href="https://www.allsides.com/media-bias/media-bias-ratings?field_featured_bias_rating_value=All&field_news_source_type_tid[1]=1&field_news_source_type_tid[2]=2&field_news_source_type_tid[3]=3&field_news_source_type_tid[4]=4&field_news_bias_nid_1[1]=1&field_news_bias_nid_1[2]=2&field_news_bias_nid_1[3]=3&title=Daily%20Wire">Link</a></td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>The Economist</td>
+      <td>AllSides</td>
+      <td><a href="https://www.allsides.com/media-bias/media-bias-ratings?field_featured_bias_rating_value=All&field_news_source_type_tid[1]=1&field_news_source_type_tid[2]=2&field_news_source_type_tid[3]=3&field_news_source_type_tid[4]=4&field_news_bias_nid_1[1]=1&field_news_bias_nid_1[2]=2&field_news_bias_nid_1[3]=3&title=Economist">Link</a></td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>The New York Times</td>
+      <td>AllSides</td>
+      <td><a href="https://www.allsides.com/media-bias/media-bias-ratings?field_featured_bias_rating_value=All&field_news_source_type_tid[1]=1&field_news_source_type_tid[2]=2&field_news_source_type_tid[3]=3&field_news_source_type_tid[4]=4&field_news_bias_nid_1[1]=1&field_news_bias_nid_1[2]=2&field_news_bias_nid_1[3]=3&title=New%20York%20Times">Link</a></td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>The Realignment</td>
+      <td>Hosts Saagar Enjeti and Marshall Kosloff both describe themselves as right-of-center; though they (at least Saagar) may be more populist, they still hold views better aligned with conservatives</td>
+      <td></td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>The Wall Street Journal</td>
+      <td>AllSides</td>
+      <td><a href="https://www.allsides.com/media-bias/media-bias-ratings?field_featured_bias_rating_value=All&field_news_source_type_tid[1]=1&field_news_source_type_tid[2]=2&field_news_source_type_tid[3]=3&field_news_source_type_tid[4]=4&field_news_bias_nid_1[1]=1&field_news_bias_nid_1[2]=2&field_news_bias_nid_1[3]=3&title=Wall%20Street%20Journal">Link</a></td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>The Wall Street Journal & Gimlet</td>
+      <td>AllSides</td>
+      <td><a href="https://www.allsides.com/media-bias/media-bias-ratings?field_featured_bias_rating_value=All&field_news_source_type_tid[1]=1&field_news_source_type_tid[2]=2&field_news_source_type_tid[3]=3&field_news_source_type_tid[4]=4&field_news_bias_nid_1[1]=1&field_news_bias_nid_1[2]=2&field_news_bias_nid_1[3]=3&title=Wall%20Street%20Journal%20&%20Gimlet">Link</a></td>
+      <td>Center</td>
+    </tr>
+    <tr>
+      <td>The Washington Post</td>
+      <td>AllSides</td>
+      <td><a href="https://www.allsides.com/media-bias/media-bias-ratings?field_featured_bias_rating_value=All&field_news_source_type_tid[1]=1&field_news_source_type_tid[2]=2&field_news_source_type_tid[3]=3&field_news_source_type_tid[4]=4&field_news_bias_nid_1[1]=1&field_news_bias_nid_1[2]=2&field_news_bias_nid_1[3]=3&title=Washington%20Post">Link</a></td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Tim Pool</td>
+      <td>AllSides</td>
+      <td><a href="https://www.allsides.com/media-bias/media-bias-ratings?field_featured_bias_rating_value=All&field_news_source_type_tid[1]=1&field_news_source_type_tid[2]=2&field_news_source_type_tid[3]=3&field_news_source_type_tid[4]=4&field_news_bias_nid_1[1]=1&field_news_bias_nid_1[2]=2&field_news_bias_nid_1[3]=3&title=Tim%20Pool">Link</a></td>
+      <td>Center</td>
+    </tr>
+    <tr>
+      <td>Vox</td>
+      <td>AllSides</td>
+      <td><a href="https://www.allsides.com/media-bias/media-bias-ratings?field_featured_bias_rating_value=All&field_news_source_type_tid[1]=1&field_news_source_type_tid[2]=2&field_news_source_type_tid[3]=3&field_news_source_type_tid[4]=4&field_news_bias_nid_1[1]=1&field_news_bias_nid_1[2]=2&field_news_bias_nid_1[3]=3&title=Vox">Link</a></td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Yahoo News</td>
+      <td>AllSides</td>
+      <td><a href="https://www.allsides.com/media-bias/media-bias-ratings?field_featured_bias_rating_value=All&field_news_source_type_tid[1]=1&field_news_source_type_tid[2]=2&field_news_source_type_tid[3]=3&field_news_source_type_tid[4]=4&field_news_bias_nid_1[1]=1&field_news_bias_nid_1[2]=2&field_news_bias_nid_1[3]=3&title=Yahoo%20News">Link</a></td>
+      <td>Left</td>
+    </tr>
+  </tbody>
+</table>

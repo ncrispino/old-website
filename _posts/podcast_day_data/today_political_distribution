@@ -1,0 +1,22 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr>
+      <th>Partisan Lean</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Left</th>
+      <td>0.325</td>
+    </tr>
+    <tr>
+      <th>Center</th>
+      <td>0.250</td>
+    </tr>
+    <tr>
+      <th>Right</th>
+      <td>0.425</td>
+    </tr>
+  </tbody>
+</table>

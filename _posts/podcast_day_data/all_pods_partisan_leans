@@ -1,0 +1,346 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Source</th>
+      <th>Name</th>
+      <th>Partisan Lean</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ABC News</td>
+      <td>20/20</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>ABC News</td>
+      <td>Start Here</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Axios &amp; Pushkin Industries</td>
+      <td>Axios Today</td>
+      <td>Center</td>
+    </tr>
+    <tr>
+      <td>BBC World Service</td>
+      <td>Global News Podcast</td>
+      <td>Center</td>
+    </tr>
+    <tr>
+      <td>BBC World Service</td>
+      <td>Newshour</td>
+      <td>Center</td>
+    </tr>
+    <tr>
+      <td>Blaze Podcast Network</td>
+      <td>Relatable with Allie Beth Stuckey</td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>Blaze Podcast Network</td>
+      <td>Louder with Crowder</td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>Blaze Podcast Network</td>
+      <td>The Glenn Beck Program</td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>Breaking Points with Krystal and Saagar</td>
+      <td>Breaking Points with Krystal and Saagar</td>
+      <td>Center</td>
+    </tr>
+    <tr>
+      <td>CNN</td>
+      <td>CNN 5 Things</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Chapo Trap House</td>
+      <td>Chapo Trap House</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Charlie Kirk</td>
+      <td>The Charlie Kirk Show</td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>Crooked Media</td>
+      <td>Pod Save the World</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Crooked Media</td>
+      <td>Lovett or Leave It</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Crooked Media</td>
+      <td>Pod Save America</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Crooked Media</td>
+      <td>What A Day</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Cumulus Podcast Network</td>
+      <td>Mark Levin Podcast</td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>Cumulus Podcast Network | Dan Bongino</td>
+      <td>The Dan Bongino Show</td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>Devil May Care Media</td>
+      <td>The Megyn Kelly Show</td>
+      <td>Center</td>
+    </tr>
+    <tr>
+      <td>FOX News Radio</td>
+      <td>Fox News Radio Newscast</td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>FOX News Radio</td>
+      <td>Fox News Rundown Evening Edition</td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>Fearless with Jason Whitlock</td>
+      <td>Fearless with Jason Whitlock</td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>FiveThirtyEight, 538, ABC News, Nate Silver</td>
+      <td>FiveThirtyEight Politics</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>GaS Digital Network</td>
+      <td>Part Of The Problem</td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>HBO Podcasts</td>
+      <td>Real Time with Bill Maher</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Julian Feeld, Travis View &amp; Jake Rockatansky</td>
+      <td>QAnon Anonymous</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Kast Media</td>
+      <td>Fear &amp; Malding</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Keith &amp; Kevin Hodge</td>
+      <td>Hodgetwins</td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>Krystal</td>
+      <td>Krystal Kyle &amp; Friends</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>LSJ Media Group and Audio Up, Inc.</td>
+      <td>Mea Culpa with Michael Cohen</td>
+      <td>Center</td>
+    </tr>
+    <tr>
+      <td>NPR</td>
+      <td>On Our Watch</td>
+      <td>Center</td>
+    </tr>
+    <tr>
+      <td>NPR</td>
+      <td>Up First</td>
+      <td>Center</td>
+    </tr>
+    <tr>
+      <td>NPR</td>
+      <td>No Compromise</td>
+      <td>Center</td>
+    </tr>
+    <tr>
+      <td>NPR</td>
+      <td>The NPR Politics Podcast</td>
+      <td>Center</td>
+    </tr>
+    <tr>
+      <td>NPR</td>
+      <td>Code Switch</td>
+      <td>Center</td>
+    </tr>
+    <tr>
+      <td>NPR</td>
+      <td>Consider This from NPR</td>
+      <td>Center</td>
+    </tr>
+    <tr>
+      <td>NPR</td>
+      <td>NPR News Now</td>
+      <td>Center</td>
+    </tr>
+    <tr>
+      <td>New York Magazine</td>
+      <td>Pivot</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>New York Times Opinion</td>
+      <td>The Argument</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Office Hours with Georgia Howe</td>
+      <td>Office Hours with Georgia Howe</td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>POLITICO</td>
+      <td>POLITICO Dispatch</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Premiere Networks</td>
+      <td>The Clay Travis and Buck Sexton Show</td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>Premiere Networks</td>
+      <td>The Rush Limbaugh Show</td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>Rachel Maddow, MSNBC</td>
+      <td>The Rachel Maddow Show</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Sam Seder</td>
+      <td>The Majority Report with Sam Seder</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Slate Podcasts</td>
+      <td>What Next | Daily News and Analysis</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>TODAY</td>
+      <td>TODAY</td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>The Daily Wire</td>
+      <td>Debunked</td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>The Daily Wire</td>
+      <td>The Ben Shapiro Show</td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>The Daily Wire</td>
+      <td>The Matt Walsh Show</td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>The Daily Wire</td>
+      <td>The Andrew Klavan Show</td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>The Daily Wire</td>
+      <td>Candace</td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>The Daily Wire</td>
+      <td>The Michael Knowles Show</td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>The Economist</td>
+      <td>The Economist Morning Briefing</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>The Economist</td>
+      <td>Economist Radio</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>The New York Times</td>
+      <td>The Daily</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>The New York Times</td>
+      <td>1619</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>The Realignment</td>
+      <td>The Realignment</td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>The Wall Street Journal</td>
+      <td>WSJ Your Money Briefing</td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>The Wall Street Journal</td>
+      <td>WSJ What’s News</td>
+      <td>Right</td>
+    </tr>
+    <tr>
+      <td>The Wall Street Journal &amp; Gimlet</td>
+      <td>The Journal.</td>
+      <td>Center</td>
+    </tr>
+    <tr>
+      <td>The Washington Post</td>
+      <td>Post Reports</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>The Washington Post</td>
+      <td>Please, Go On with James Hohmann</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Tim Pool</td>
+      <td>Tim Pool Daily Show</td>
+      <td>Center</td>
+    </tr>
+    <tr>
+      <td>Vox</td>
+      <td>Today, Explained</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>Yahoo News</td>
+      <td>Conspiracyland</td>
+      <td>Left</td>
+    </tr>
+    <tr>
+      <td>iHeartRadio</td>
+      <td>Q Clearance: The Hunt for QAnon</td>
+      <td>Left</td>
+    </tr>
+  </tbody>
+</table>

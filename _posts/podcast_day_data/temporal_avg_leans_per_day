@@ -1,0 +1,30 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Count</th>
+    </tr>
+    <tr>
+      <th>Partisan Lean</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Left</th>
+      <td>15.457143</td>
+    </tr>
+    <tr>
+      <th>Center</th>
+      <td>12.371429</td>
+    </tr>
+    <tr>
+      <th>Right</th>
+      <td>14.957143</td>
+    </tr>
+    <tr>
+      <th>Neither</th>
+      <td>7.214286</td>
+    </tr>
+  </tbody>
+</table>
