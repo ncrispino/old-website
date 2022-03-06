@@ -47,7 +47,8 @@ Partisan Database
 
 All podcasts classified as "Neither"
 <div id="all-neither"></div>  
-
+<em>Note: The "Neither" labels may be incorrect. Will need to manually edit if keeping up with this project.</em>
+<br />
 
 <!-- Full data available <a href="" target="_blank">here</a>. -->  
 <br />
@@ -62,7 +63,9 @@ All podcasts classified as "Neither"
 
   Though the images and tables are automatically updated, the webpage isn't. This is due to the Python files running and storing the data locally. Ideally, these scripts should be run on the cloud and the webpage should fetch the data (including graphs) from the the cloud to be put on the webpage.
 
-  This would require a lot of work--as I could no longer use Jekyll, which is made for static sites. Because my focus isn't in web-development but in economics/politics and data analysis, I'm going to focus on doing further analysis rather than creating a more interactive user experience. Perhaps in the future I could return to this using a web-framework like Django. However, my interests lie elsewhere, so for now, this must do.
+  This would require a lot of work--as I could no longer use Jekyll, which is made for static sites. Because my focus isn't in web-development but in economics/politics and data analysis, I'm going to focus on doing further analysis rather than creating a more interactive user experience. Perhaps in the future I could return to this using a web-framework like Django. However, my interests lie elsewhere, so for now, this must do. Note that I ended the analysis after about 2 months, on August 24, 2021.
+
+  See <a href="/blog/Partisan-Podcasts/">this post</a> for more.
 </details>
 
 <script src="\scripts\jquery.js"></script>

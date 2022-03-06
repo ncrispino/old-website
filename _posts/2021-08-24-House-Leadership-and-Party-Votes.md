@@ -1,5 +1,9 @@
 ---
 Creator: Nick
+categories:
+  - Blog
+tags:
+  - Politics
 ---
 
 This time, I wanted to use Jupyter Notebook instead of my normal Jekyll markdown posts.

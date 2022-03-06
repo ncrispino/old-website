@@ -63,7 +63,7 @@ Future analysis may do well to focus on the rise of new media when discussing pa
 #### For Me
 Hopefully, I can find a way to present these data in a live webpage that can toggle through the different days and let the user inspect which podcasts were classified under each partisan lean (with justifications). Ideally, this webpage would update automatically so that one can see the partisan leans evolve over time, along with descriptive statistics regarding each side's dominance.
 
-[Here](\..\projects\Partisan-Podcasts-Interactive.html) is my project so far, which will be updated regularly.
+[Here](/projects/Partisan-Podcasts-Project/) is my project so far, which will be updated regularly.
 
 ### Sources
 [Chartable](https://chartable.com/charts/spotify/united-states-of-america-news-politics) (in the future, update my webscraping to obtain the data directly through the [Spotify charts](https://podcastcharts.byspotify.com/))
