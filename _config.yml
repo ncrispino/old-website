@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Nick Crispino"
   avatar : "/images/poss_logo_1.png"
-  bio    : "Aspiring data scientist/economist, college sophomore at WashU"
+  bio    : "Aspiring computer scientist/economist (or something), rising college junior at WashU"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
