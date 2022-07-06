@@ -2,6 +2,7 @@
 Creator: Nick
 categories:
   - Blog
+  - Projects
 tags:
   - COVID
 ---
