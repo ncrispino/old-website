@@ -13,6 +13,4 @@ However, the most prominent explanation I hear from other students for all COVID
 
 [Spreadsheet with data](https://github.com/ncrispino/covid_university_dates)
 
-After finding the data, I wanted to create a model. Originally, I wanted to see how important rank was as a determinant of first-mover status in COVID guidelines for universities. However, I'm slightly switching my task for now to utilize the machine learning methods I've learned. Now, I want to predict the number of days it takes for a university to respond using a variety of variables (with rank as one of them). I'm currently in the process of doing this. You can read more about my goals and check my progress below:
-
-[Github link to notebook](https://github.com/ncrispino/covid_university_dates/blob/master/Analyzing%20Covid%20Decision%20Dates.ipynb)
+After finding the data, I wanted to create a model. Originally, I wanted to see how important rank was as a determinant of first-mover status in COVID guidelines for universities. However, I'm slightly switching my task for now to utilize the machine learning methods I've learned. Now, I want to predict the number of days it takes for a university to respond using a variety of variables (with rank as one of them). For this project, see [my next blog post](/2022-7-05-Predicting-University-Covid-Mandates.html)
