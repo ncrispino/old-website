@@ -5,7 +5,9 @@ categories:
 tags:
   - COVID
 ---
-**TLDR:** Using machine learning, I tried to predict if a university with a vaccine mandate would also mandate a booster. [Here](https://covid-university-boosters.herokuapp.com/) are my interactive results with Dash.
+**TLDR:** Using machine learning, I tried to predict if a university with a vaccine mandate would also mandate a booster. [Here](https://covid-university-boosters.herokuapp.com/) are my interactive results with Dash. Preview:
+
+![covid-uni-heroku-preview](\..\images\covid_uni_heroku_preview.png)
 
 Inspired by [my last blog post]({% post_url 2022-6-15-Tracking-Coronavirus-Decisions-At-Top-Universities %}), I wanted to see if I could predict if and when universities made decisions to implement vaccine or booster mandates. I originally used the data I had collected, but since there were only 51 universities and the cost of collecting data was so high (as it was very tedious), I couldn't reasonably use it to create a machine learning model with good generalization. Initially, [I cleaned these data and added features](https://github.com/ncrispino/covid_university_dates/blob/master/Analyzing%20Covid%20Decision%20Dates.ipynb), intending to predict days until a Covid response from universities. I started to do the modeling [here](https://github.com/ncrispino/covid_university_dates/blob/master/Covid%20Model%20Creation.ipynb), but realized my analysis had some problems, as I describe in the notebook.
 
